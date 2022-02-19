@@ -1,0 +1,12 @@
+webhook testing
+
+Git Hook
+
+payload url  /github-webhook/
+
+secreate : admin(login) --configure --api token --name of the repository name
+
+	
+
+  
+  
